@@ -1,0 +1,1 @@
+# Going Fast in Advent of Code
